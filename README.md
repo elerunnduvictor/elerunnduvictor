@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------
 
 *   Languages: JavaScript, Python, PHP, C#, SQL
-*   Frameworks: Node JS, React, Express, Mongo DB, CSS Libraries
+*   Frameworks: Node JS, Next JS, Nest JS, React, Express, Mongo DB, CSS Libraries
 *   Tools: Microsoft 365, Google Space, Window Server, Linux (Ubuntu/Fedora), 
 PowerShell, Network Configuration, Operation Systems (Windows and Mac OS), Hard Installation
 
